@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Christopher Kennedy
+- 👀 I’m interested in software engineering, optomization problems, and learning new things!
+- 🌱 I’m currently learning about algorithms and their proofs of correctness as well as combinatorics.
+- 💞️ I’m looking to collaborate on anything I have free time for!
+- 📫 Email me at ckennedy22@wisc.edu or text me at (608)455-6846.
