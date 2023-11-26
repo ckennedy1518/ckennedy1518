@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Christopher Kennedy
 - 👀 I’m interested in software engineering, optomization problems, and learning new things!
-- 🌱 I’m currently learning more about software engineering as well as linear algebra concepts in data science.
-- 💞️ I’m looking to collaborate on anything I have free time for!
-- 📫 Email me at ckennedy22@wisc.edu or text me at (608)455-6846.
+- 🌱 I’m currently a software developer at Epic working on a couple projects when I feel like it in my free time.
+- 📫 Email me at ckennedy22@wisc.edu.
