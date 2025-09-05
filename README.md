@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Christopher Kennedy
 - 👀 I’m interested in software engineering, optomization problems, and learning new things!
-- 🌱 I’m currently a software developer at Epic working on a couple projects when I feel like it in my free time.
-- 📫 Email me at ckennedy22@wisc.edu.
+- 🌱 I’m currently a software developer at TruStage working on a couple projects when I feel like it in my free time.
+- 📫 Email me at christopherk1518@gmail.com.
